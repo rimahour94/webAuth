@@ -1,0 +1,14 @@
+*{
+    background-color: hsl(240, 12%, 67%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .95em;
+}
+.input_feild{
+    outline: none;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+
+/* .register_button{
+    margin-top: 4px;
+} */
